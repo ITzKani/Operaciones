@@ -6,7 +6,7 @@ class MainOperaciones{
         // inicio del do while, este sera la entrada para elegir una opcion del menu 
         do{
 
-        System.out.println("********Elige una opcion************");
+        
 	    System.out.println("1) Suma");
 	    System.out.println("2) Resta");
 	    System.out.println("3) Multiplicacion");
